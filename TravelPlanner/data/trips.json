@@ -1,0 +1,67 @@
+[
+  {
+    "id": "trip_001",
+    "title": "Tokyo Adventure",
+    "destination": "Tokyo, Japan",
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-25",
+    "budget": 3500,
+    "spent": 1200,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800",
+    "notes": "Cherry blossom season preparation and temple visits.",
+    "itinerary": [
+      {"day": 1, "activity": "Arrival & Shibuya Crossing", "time": "14:00"},
+      {"day": 2, "activity": "Senso-ji Temple & Asakusa", "time": "09:00"},
+      {"day": 3, "activity": "TeamLab Planets & Odaiba", "time": "10:30"}
+    ],
+    "packing": [
+      {"item": "Passport", "packed": true},
+      {"item": "Power adapter", "packed": false},
+      {"item": "Comfortable walking shoes", "packed": true},
+      {"item": "Camera", "packed": false}
+    ]
+  },
+  {
+    "id": "trip_002",
+    "title": "Paris Getaway",
+    "destination": "Paris, France",
+    "startDate": "2027-03-10",
+    "endDate": "2027-03-17",
+    "budget": 2800,
+    "spent": 450,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+    "notes": "Romantic spring trip focusing on museums and cuisine.",
+    "itinerary": [
+      {"day": 1, "activity": "Eiffel Tower & Seine Cruise", "time": "11:00"},
+      {"day": 2, "activity": "Louvre Museum", "time": "09:30"}
+    ],
+    "packing": [
+      {"item": "Passport", "packed": true},
+      {"item": "Light jacket", "packed": false},
+      {"item": "Comfortable shoes", "packed": false}
+    ]
+  },
+  {
+    "id": "trip_003",
+    "title": "Bali Retreat",
+    "destination": "Bali, Indonesia",
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-12",
+    "budget": 2200,
+    "spent": 2150,
+    "status": "completed",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+    "notes": "Yoga, beaches and rice terraces.",
+    "itinerary": [
+      {"day": 1, "activity": "Ubud rice terraces", "time": "08:00"},
+      {"day": 2, "activity": "Uluwatu Temple sunset", "time": "16:00"}
+    ],
+    "packing": [
+      {"item": "Sunscreen", "packed": true},
+      {"item": "Swimwear", "packed": true},
+      {"item": "Yoga mat", "packed": true}
+    ]
+  }
+]
